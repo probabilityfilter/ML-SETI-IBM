@@ -32,6 +32,7 @@ Even though Machine Learning garners the highest appeal, I realize that there wi
 ## Digital Signal Processing
 [Back to Table of Contents](#table-of-contents) 
 
+![Signals](notebooks/figures/BasicData_4types.JPG?raw=true)
 ![Signal1](notebooks/figures/BasicData_0150.JPG?raw=true)
 ![Signal2](notebooks/figures/BasicData_1000.JPG?raw=true)
 ![Signal3](notebooks/figures/BasicData_2950.JPG?raw=true)
