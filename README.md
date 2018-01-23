@@ -23,9 +23,9 @@ While the application of Machine Learning to SETI’s radio telescope data will 
 
 Even though Machine Learning garners the highest appeal, I realize that there will be significant amount of ancillary work to be done, ex. setting up a data pipeline, choosing the right metric, testing etc.
 
-![people](notebooks/figures/People.JPG)
+![people](notebooks/figures/people.JPG)
 
-![people](notebooks/figures/People.jpg)
+![people](notebooks/figures/people.jpg)
 
 ![Kepler](notebooks/figures/people.JPG?raw=true)
 
