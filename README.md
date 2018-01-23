@@ -2,8 +2,8 @@
 
 ![hackathon award](notebooks/figures/award.jpg?raw=true)
 
-![test][[ notebooks/figures/award.jpg?raw=true | height=100 ]]
-![test](notebooks/figures/award.jpg?raw=true | width=48)
+![test][[ notebooks/figures/award.jpg?raw=true | height=50% ]]
+![test](notebooks/figures/award.jpg?raw=true | width=48%)
 ![test](notebooks/figures/award.jpg?raw=true =24x48)
 ![test](notebooks/figures/award.jpg?raw=true){:height="24px" width="48px"}
 
@@ -13,7 +13,7 @@
 ![test](notebooks/figures/award.jpg){:height="24px" width="48px"}
 ![test](notebooks/figures/award.jpg) <!-- .element height="50%" width="50%" -->
 <!-- .element style="border: 0; background: None; box-shadow: None" -->
-![test](notebooks/figures/award.jpg).element style="border: 0; background: None; box-shadow: None"
+![test](notebooks/figures/award.jpg).element style="height="50%" width="50%""
 
 ## Table of Contents
   - [Executive Summary](#executive-summary)
