@@ -27,14 +27,20 @@ Even though Machine Learning garners the highest appeal, I realize that there wi
 [Back to Table of Contents](#table-of-contents)
 
 ![gif](notebooks/figures/CandidatesInSky_Fast.gif?raw=true)
+![Kepler](notebooks/figures/KeplerField.JPG?raw=true)
 
 ## Digital Signal Processing
 [Back to Table of Contents](#table-of-contents) 
 
+![Signal1](notebooks/figures/BasicData_0150.JPG?raw=true)
+![Signal2](notebooks/figures/BasicData_1000.JPG?raw=true)
+![Signal3](notebooks/figures/BasicData_2950.JPG?raw=true)
+![Signal4](notebooks/figures/BasicData_2980.JPG?raw=true)
+
 ## Hackathon
 [Back to Table of Contents](#table-of-contents)
 
-![Signal1](notebooks/figures/BasicData_0150.JPG?raw=true)
+![Scatter](notebooks/figures/BasicData_clusters.JPG?raw=true)
 
 
 ## Code Challenge
