@@ -2,6 +2,10 @@
 
 ![hackathon award](notebooks/figures/award.jpg?raw=true)
 
+![Award](notebooks/2.1 CandidateLocation_BySize.ipynb?raw=true)
+
+ ML-SETI-IBM/notebooks/2.1 CandidateLocation_BySize.ipynb 
+
 ## Table of Contents
   - [Executive Summary](#executive-summary)
   - [Visualization](#visualization)
