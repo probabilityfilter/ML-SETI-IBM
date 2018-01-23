@@ -7,6 +7,11 @@
 ![test](notebooks/figures/award.jpg?raw=true =24x48)
 ![test](notebooks/figures/award.jpg?raw=true){:height="24px" width="48px"}
 
+[[ notebooks/figures/award.jpg | height = 100 ]]
+![test](notebooks/figures/award.jpg | width=48)
+![test](notebooks/figures/award.jpg =24x48)
+![test](notebooks/figures/award.jpg){:height="24px" width="48px"}
+
 ## Table of Contents
   - [Executive Summary](#executive-summary)
   - [Visualization](#visualization)
