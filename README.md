@@ -23,24 +23,32 @@ While the application of Machine Learning to SETI’s radio telescope data will 
 
 Even though Machine Learning garners the highest appeal, I realize that there will be significant amount of ancillary work to be done, ex. setting up a data pipeline, choosing the right metric, testing etc.
 
+Many thanks to the wonderful people from IBM and SETI who gave me this opportunity ........ yes that is the legendary Jill Tarter. Her astronomical work is the source for Carl Sagan's novel Contact which was adapted into the film Contact played by Jodie Foster.
+
 ![people](notebooks/figures/people.jpg)
 
 ## Visualization
 [Back to Table of Contents](#table-of-contents)
 
+A good visualization enables the viewer to gain a deeper understanding of the data. I understood the Dec and RA system, which is a x-y cor-ordinate system but it did not match the magnanimity of SETI's undertaking. I used NumPy and my mathematical skills to map this x-y system into a spherical co-ordinate and represent the target stars on a celestial sphere. This result appeared in an article by [IBM](https://medium.com/ibm-watson-data-lab/citizen-scientist-finds-death-star-in-seti-data-set-40633591b954) and IBM Watson Data Lab [tweeted](https://twitter.com/WatsonDataLab/status/864494962280460288) about it.
 ![gif](notebooks/figures/CandidatesInSky_Fast.gif?raw=true)
+As a bonus material, I isolated the Kepler Field which clearly shows the '+' like pattern of the search field. The Kepler mission completely changed our understanding of the Universe and had a direct impact on SETI by bounding the 'Fraction of stars with planets' parameter in the Drake equation.
 ![Kepler](notebooks/figures/KeplerField.JPG?raw=true)
 
 ## Digital Signal Processing
 [Back to Table of Contents](#table-of-contents) 
 
+Any data collected in the real world will have noise. One of the first steps was to deal with the SNR (Signal to Noise Ratio) and extra relevant data so that our Machine Learning algorithm can do a better job at classifying the signals. Here are four types of radio signals that have been extracted from noisy data. This simplified image will enhance the speed and accuracy of the Machine Learning algorithm downstream in the data pipeline.
 ![Signals](notebooks/figures/BasicData_4types.JPG?raw=true)
 
 ## Hackathon
 [Back to Table of Contents](#table-of-contents)
 
+The Hackathon was held in San Francisco, CA. The above Signal Processing allowed my team to plot the data in such a way that the clusters were clearly visible. As seen in the Leader Board my team 'Benders' won the Signal Processing Contest part of the Hackathon. Brownie points to anyone who can guess the pop culture reference of the team's name.
 ![Scatter](notebooks/figures/BasicData_clusters.JPG?raw=true)
 ![LeaderBoard](notebooks/figures/LeaderBoard_SignalProcessingContest.jpg?raw=true)
+
+A proud moment for me :-) :smile:
 ![Award](notebooks/figures/award_win.jpg?raw=true)
 
 ## Code Challenge
