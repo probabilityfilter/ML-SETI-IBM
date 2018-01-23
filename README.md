@@ -33,26 +33,25 @@ Even though Machine Learning garners the highest appeal, I realize that there wi
 [Back to Table of Contents](#table-of-contents) 
 
 ![Signals](notebooks/figures/BasicData_4types.JPG?raw=true)
-![Signal1](notebooks/figures/BasicData_0150.JPG?raw=true)
-![Signal2](notebooks/figures/BasicData_1000.JPG?raw=true)
-![Signal3](notebooks/figures/BasicData_2950.JPG?raw=true)
-![Signal4](notebooks/figures/BasicData_2980.JPG?raw=true)
 
 ## Hackathon
 [Back to Table of Contents](#table-of-contents)
 
 ![Scatter](notebooks/figures/BasicData_clusters.JPG?raw=true)
-
+![Scatter](notebooks/figures/LeaderBoard_SignalProcessingContest?raw=true)
 
 ## Code Challenge
 [Back to Table of Contents](#table-of-contents)
-
-The Code Challenge that followed the Hackathon focused on bringing the powers of Supervised Learning to the task of classifying the signals into seven categories. Although the winning team attained a 95% signal classification accuracy, the Universe does not limit itself to just seven categories. Hence, I firmly believe that this is an appropriate problem for Unsupervised Learning algorithms which would not only classify previously unseen yet interesting signals but also be able to detect different types of signals within a single observation. Such research will also contribute to the pursuit of true AI (Artificial Intelligence) which does not seem to be achievable by simple variations of Deep Learning and Supervised Learning algorithms. 
 
 ![DSP1](notebooks/figures/PSmall_MenMedianRatio.JPG?raw=true)
 ![DSP2](notebooks/figures/PSmall_pVal.JPG?raw=true)
 ![DSP3](notebooks/figures/PSmall_pVal_slopeLinearFit.JPG?raw=true)
 ![DSP4](notebooks/figures/PSmall_StdDevTime.JPG?raw=true) 
 
+![Compare](notebooks/figures/compare.JPG?raw=true) 
+![Compares](notebooks/figures/compare2.JPG?raw=true) 
+
 ## Future Work
 [Back to Table of Contents](#table-of-contents)
+
+The Code Challenge that followed the Hackathon focused on bringing the powers of Supervised Learning to the task of classifying the signals into seven categories. Although the winning team attained a 95% signal classification accuracy, the Universe does not limit itself to just seven categories. Hence, I firmly believe that this is an appropriate problem for Unsupervised Learning algorithms which would not only classify previously unseen yet interesting signals but also be able to detect different types of signals within a single observation. Such research will also contribute to the pursuit of true AI (Artificial Intelligence) which does not seem to be achievable by simple variations of Deep Learning and Supervised Learning algorithms. 
