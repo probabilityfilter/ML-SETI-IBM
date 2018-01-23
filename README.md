@@ -30,7 +30,7 @@ Many thanks to the wonderful people from IBM and SETI who gave me this opportuni
 ## Visualization
 [Back to Table of Contents](#table-of-contents)
 
-A good visualization enables the viewer to gain a deeper understanding of the data. I understood the Dec and RA system, which is a x-y cor-ordinate system ([code](https://github.com/probabilityfilter/ML-SETI-IBM/blob/master/notebooks/CandidateLocation_BySize.ipynb)) but it did not match the magnanimity of SETI's undertaking. I used NumPy and my mathematical skills to map this x-y system into a spherical co-ordinate and represent the target stars on a celestial sphere. This result appeared in an article by [IBM](https://medium.com/ibm-watson-data-lab/citizen-scientist-finds-death-star-in-seti-data-set-40633591b954) and IBM Watson Data Lab [tweeted](https://twitter.com/WatsonDataLab/status/864494962280460288) about it. The code can be found [here](https://github.com/probabilityfilter/ML-SETI-IBM/blob/master/notebooks/RA_Dec_to_SphericalSystem.ipynb).
+A good visualization enables the viewer to gain a deeper understanding of the data. I understood the Dec and RA system, which is a x-y cor-ordinate system ([code](https://github.com/probabilityfilter/ML-SETI-IBM/blob/master/notebooks/CandidateLocation_BySize.ipynb)) but it did not match the magnanimity of SETI's undertaking. I used NumPy and my mathematical skills to map this x-y system into a spherical co-ordinate and represent the target stars on a celestial sphere. This result appeared in an article by [IBM](https://medium.com/ibm-watson-data-lab/citizen-scientist-finds-death-star-in-seti-data-set-40633591b954) and IBM Watson Data Lab [tweeted](https://twitter.com/WatsonDataLab/status/864494962280460288) about it. [Code](https://github.com/probabilityfilter/ML-SETI-IBM/blob/master/notebooks/RA_Dec_to_SphericalSystem.ipynb).
 ![gif](notebooks/figures/CandidatesInSky_Fast.gif?raw=true)
 
 As a bonus material, I isolated the Kepler Field which clearly shows the '+' like pattern of the search field. The Kepler mission completely changed our understanding of the Universe and had a direct impact on SETI by bounding the 'Fraction of stars with planets' parameter in the Drake equation.
@@ -46,7 +46,7 @@ Any data collected in the real world will have noise. One of the first steps was
 ## Hackathon
 [Back to Table of Contents](#table-of-contents)
 
-The Hackathon was held in San Francisco, CA. The above Signal Processing allowed my team to plot the data in such a way that the clusters were clearly visible. As seen in the Leader Board my team 'Benders' won the Signal Processing Contest part of the Hackathon. Brownie points to anyone who can guess the pop culture reference of the team's name. The code can be found [here](https://github.com/probabilityfilter/ML-SETI-IBM/blob/master/notebooks/Arun_nonNN%2BHakcathonBasic.ipynb).
+The Hackathon was held in San Francisco, CA. The above Signal Processing allowed my team to plot the data in such a way that the clusters were clearly visible. As seen in the Leader Board my team 'Benders' won the Signal Processing Contest part of the Hackathon. Brownie points to anyone who can guess the pop culture reference of the team's name. [Code](https://github.com/probabilityfilter/ML-SETI-IBM/blob/master/notebooks/Arun_nonNN%2BHakcathonBasic.ipynb).
 
 ![Scatter](notebooks/figures/BasicData_clusters.JPG?raw=true)
 ![LeaderBoard](notebooks/figures/LeaderBoard_SignalProcessingContest.jpg?raw=true)
