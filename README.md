@@ -2,8 +2,6 @@
 
 ![hackathon award](notebooks/figures/award.jpg?raw=true)
 
-[code](https://github.com/probabilityfilter/ML-SETI-IBM/blob/master/notebooks/2.1%20CandidateLocation_BySize.ipynb)
-
 ## Table of Contents
   - [Executive Summary](#executive-summary)
   - [Visualization](#visualization)
@@ -48,7 +46,8 @@ Any data collected in the real world will have noise. One of the first steps was
 ## Hackathon
 [Back to Table of Contents](#table-of-contents)
 
-The Hackathon was held in San Francisco, CA. The above Signal Processing allowed my team to plot the data in such a way that the clusters were clearly visible. As seen in the Leader Board my team 'Benders' won the Signal Processing Contest part of the Hackathon. Brownie points to anyone who can guess the pop culture reference of the team's name.
+The Hackathon was held in San Francisco, CA. The above Signal Processing allowed my team to plot the data in such a way that the clusters were clearly visible. As seen in the Leader Board my team 'Benders' won the Signal Processing Contest part of the Hackathon. Brownie points to anyone who can guess the pop culture reference of the team's name. The code can be found [here](https://github.com/probabilityfilter/ML-SETI-IBM/blob/master/notebooks/Arun_nonNN%2BHakcathonBasic.ipynb).
+
 ![Scatter](notebooks/figures/BasicData_clusters.JPG?raw=true)
 ![LeaderBoard](notebooks/figures/LeaderBoard_SignalProcessingContest.jpg?raw=true)
 
