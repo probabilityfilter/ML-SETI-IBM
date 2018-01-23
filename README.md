@@ -2,10 +2,7 @@
 
 ![hackathon award](notebooks/figures/award.jpg?raw=true)
 
-![Award](notebooks/2.1 CandidateLocation_BySize.ipynb?raw=true)
-![Award](notebooks/2.1-CandidateLocation_BySize.ipynb?raw=true)
 [code](https://github.com/probabilityfilter/ML-SETI-IBM/blob/master/notebooks/2.1%20CandidateLocation_BySize.ipynb)
-ML-SETI-IBM/notebooks/2.1 CandidateLocation_BySize.ipynb 
 
 ## Table of Contents
   - [Executive Summary](#executive-summary)
