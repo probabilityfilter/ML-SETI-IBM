@@ -40,7 +40,7 @@ As a bonus material, I isolated the Kepler Field which clearly shows the '+' lik
 ## Digital Signal Processing
 [Back to Table of Contents](#table-of-contents) 
 
-Any data collected in the real world will have noise. One of the first steps was to deal with the SNR (Signal to Noise Ratio) and extra relevant data so that our Machine Learning algorithm can do a better job at classifying the signals. Here are four types of radio signals that have been extracted from noisy data. This simplified image will enhance the speed and accuracy of the Machine Learning algorithm downstream in the data pipeline.
+Any data collected in the real world will have noise. One of the first steps was to deal with the SNR (Signal to Noise Ratio) and extra relevant data so that our Machine Learning algorithm can do a better job at classifying the signals. Here are four types of radio signals that have been extracted from noisy data. This simplified image will enhance the speed and accuracy of the Machine Learning algorithm downstream in the data pipeline. [Code](https://github.com/probabilityfilter/ML-SETI-IBM/blob/master/notebooks/ArunPrimary_testset_preview_DSP.ipynb).
 ![Signals](notebooks/figures/BasicData_4types.JPG?raw=true)
 
 ## Hackathon
@@ -57,12 +57,12 @@ A proud moment for me :smile:
 ## Code Challenge
 [Back to Table of Contents](#table-of-contents)
 
-The Code Challenge was whole different animal since we had to deal with a low SNR and the number of signal classes went up from 4 to 7. My Hackathon methods did not rescue me!! Many of the signals were invisible to the eye, extreme data processing was required to start seeing these signals.
+The Code Challenge was whole different animal since we had to deal with a low SNR and the number of signal classes went up from 4 to 7. My Hackathon methods did not rescue me!! Many of the signals were invisible to the eye, extreme data processing was required to start seeing these signals. [Code](https://github.com/probabilityfilter/ML-SETI-IBM/blob/master/notebooks/ArunBasic_DSP_try.ipynb).
 
 ![Compare](notebooks/figures/Compare.jpg?raw=true) 
 ![Compares](notebooks/figures/Compare2.jpg?raw=true) 
 
-I had to resort to some creative visualizations but the low SNR and higher number of classes proved to be a challenge. Here are some artistic results.
+I had to resort to some creative visualizations but the low SNR and higher number of classes proved to be a challenge. Here are some artistic results. [Code](https://github.com/probabilityfilter/ML-SETI-IBM/blob/master/notebooks/Arun_nonNN%2BPrimary_testset_preview.ipynb).
 ![DSP1](notebooks/figures/PSmall_MenMedianRatio.JPG?raw=true)
 ![DSP2](notebooks/figures/PSmall_pVal.JPG?raw=true)
 ![DSP3](notebooks/figures/PSmall_pVal_slopeLinearFit.JPG?raw=true)
