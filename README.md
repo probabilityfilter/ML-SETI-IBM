@@ -25,8 +25,11 @@ Even though Machine Learning garners the highest appeal, I realize that there wi
 
 ![people](notebooks/figures/People.JPG)
 
+![people](notebooks/figures/People.jpg)
+
 ![Kepler](notebooks/figures/people.JPG?raw=true)
 
+ ML-SETI-IBM/notebooks/figures/people.jpg 
 
 ## Visualization
 [Back to Table of Contents](#table-of-contents)
