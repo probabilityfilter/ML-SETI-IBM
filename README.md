@@ -12,6 +12,9 @@
 ![test](notebooks/figures/award.jpg =24x48)
 ![test](notebooks/figures/award.jpg){:height="24px" width="48px"}
 ![test](notebooks/figures/award.jpg) <!-- .element height="50%" width="50%" -->
+<!-- .element style="border: 0; background: None; box-shadow: None" -->
+![test](notebooks/figures/award.jpg)
+<!-- .element style="border: 0; background: None; box-shadow: None" -->
 
 ## Table of Contents
   - [Executive Summary](#executive-summary)
