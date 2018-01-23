@@ -8,8 +8,8 @@
 ![cover image4](notebooks/figures/CandidatesInSky_Fast.gif)
 
 ## Table of Contents
-  - [Executive Summary](#Executive-Summary)
-  - [Visualization](#Visualization)
+  - [Executive Summary](#executive-summary)
+  - [Visualization](#visualization)
   - [Digital Signal Processing](#Digital-Signal-Processing)
   - [Hackathon](#Hackathon)
   - [Code Challenge](#Code-Challenge)
