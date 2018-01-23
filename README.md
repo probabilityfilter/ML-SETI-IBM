@@ -1,7 +1,7 @@
 # Machine Learning Using SETI data
 
-[[notebooks/figures/award.jpg?raw=true | height = 100px]]
-
+[[notebooks/figures/award.jpg | height = 100px]]
+![hackathon award]
 ## Table of Contents
   - [Executive Summary](#executive-summary)
   - [Visualization](#visualization)
