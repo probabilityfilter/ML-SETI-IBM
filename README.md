@@ -22,6 +22,7 @@ ATA's existing detection software does a simple real-time search for signals tha
 While the application of Machine Learning to SETI’s radio telescope data will serve to answer the ultimate question, it will also help development of better tools to probe numerous astronomical phenomenon like galaxy evolution, identify planetary systems, detect and characterize solar flares etc. Lessons learned from this analysis will be transferable to other fields that have direct influence on the lives of people, specifically medical diagnosis, which shares lots of traits with astronomical data in terms of confounding of signals and no clear demarcation between different types of signals.
 
 Even though Machine Learning garners the highest appeal, I realize that there will be significant amount of ancillary work to be done, ex. setting up a data pipeline, choosing the right metric, testing etc.
+
 ![people](notebooks/figures/people.JPG?raw=true)
 
 ## Visualization
@@ -39,8 +40,8 @@ Even though Machine Learning garners the highest appeal, I realize that there wi
 [Back to Table of Contents](#table-of-contents)
 
 ![Scatter](notebooks/figures/BasicData_clusters.JPG?raw=true)
-![Scatter](notebooks/figures/LeaderBoard_SignalProcessingContest.JPG?raw=true)
-![Scatter](notebooks/figures/award_win.JPG?raw=true)
+![LeaderBoard](notebooks/figures/LeaderBoard_SignalProcessingContest.JPG?raw=true)
+![Award](notebooks/figures/award_win.JPG?raw=true)
 
 ## Code Challenge
 [Back to Table of Contents](#table-of-contents)
