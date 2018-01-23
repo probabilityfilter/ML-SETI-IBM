@@ -2,7 +2,7 @@
 
 ![hackathon award](notebooks/figures/award.jpg?raw=true)
 
-[[ notebooks/figures/award.jpg?raw=true | height=100 ]]
+![test][[ notebooks/figures/award.jpg?raw=true | height=100 ]]
 ![test](notebooks/figures/award.jpg?raw=true | width=48)
 ![test](notebooks/figures/award.jpg?raw=true =24x48)
 ![test](notebooks/figures/award.jpg?raw=true){:height="24px" width="48px"}
