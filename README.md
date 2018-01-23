@@ -23,13 +23,7 @@ While the application of Machine Learning to SETI’s radio telescope data will 
 
 Even though Machine Learning garners the highest appeal, I realize that there will be significant amount of ancillary work to be done, ex. setting up a data pipeline, choosing the right metric, testing etc.
 
-![people](notebooks/figures/people.JPG)
-
 ![people](notebooks/figures/people.jpg)
-
-![Kepler](notebooks/figures/people.JPG?raw=true)
-
- ML-SETI-IBM/notebooks/figures/people.jpg 
 
 ## Visualization
 [Back to Table of Contents](#table-of-contents)
@@ -46,8 +40,8 @@ Even though Machine Learning garners the highest appeal, I realize that there wi
 [Back to Table of Contents](#table-of-contents)
 
 ![Scatter](notebooks/figures/BasicData_clusters.JPG?raw=true)
-![LeaderBoard](notebooks/figures/LeaderBoard_SignalProcessingContest.JPG?raw=true)
-![Award](notebooks/figures/award_win.JPG?raw=true)
+![LeaderBoard](notebooks/figures/LeaderBoard_SignalProcessingContest.jpg?raw=true)
+![Award](notebooks/figures/award_win.jpg?raw=true)
 
 ## Code Challenge
 [Back to Table of Contents](#table-of-contents)
@@ -57,8 +51,8 @@ Even though Machine Learning garners the highest appeal, I realize that there wi
 ![DSP3](notebooks/figures/PSmall_pVal_slopeLinearFit.JPG?raw=true)
 ![DSP4](notebooks/figures/PSmall_StdDevTime.JPG?raw=true) 
 
-![Compare](notebooks/figures/Compare.JPG?raw=true) 
-![Compares](notebooks/figures/Compare2.JPG?raw=true) 
+![Compare](notebooks/figures/Compare.jpg?raw=true) 
+![Compares](notebooks/figures/Compare2.jpg?raw=true) 
 
 ## Future Work
 [Back to Table of Contents](#table-of-contents)
