@@ -32,7 +32,9 @@ Many thanks to the wonderful people from IBM and SETI who gave me this opportuni
 
 A good visualization enables the viewer to gain a deeper understanding of the data. I understood the Dec and RA system, which is a x-y cor-ordinate system but it did not match the magnanimity of SETI's undertaking. I used NumPy and my mathematical skills to map this x-y system into a spherical co-ordinate and represent the target stars on a celestial sphere. This result appeared in an article by [IBM](https://medium.com/ibm-watson-data-lab/citizen-scientist-finds-death-star-in-seti-data-set-40633591b954) and IBM Watson Data Lab [tweeted](https://twitter.com/WatsonDataLab/status/864494962280460288) about it.
 ![gif](notebooks/figures/CandidatesInSky_Fast.gif?raw=true)
+
 As a bonus material, I isolated the Kepler Field which clearly shows the '+' like pattern of the search field. The Kepler mission completely changed our understanding of the Universe and had a direct impact on SETI by bounding the 'Fraction of stars with planets' parameter in the Drake equation.
+
 ![Kepler](notebooks/figures/KeplerField.JPG?raw=true)
 
 ## Digital Signal Processing
@@ -48,19 +50,22 @@ The Hackathon was held in San Francisco, CA. The above Signal Processing allowed
 ![Scatter](notebooks/figures/BasicData_clusters.JPG?raw=true)
 ![LeaderBoard](notebooks/figures/LeaderBoard_SignalProcessingContest.jpg?raw=true)
 
-A proud moment for me :-) :smile:
+A proud moment for me :smile:
 ![Award](notebooks/figures/award_win.jpg?raw=true)
 
 ## Code Challenge
 [Back to Table of Contents](#table-of-contents)
 
+The Code Challenge was whole different animal since we had to deal with a low SNR and the number of signal classes went up from 4 to 7. My Hackathon methods did not rescue me!! Many of the signals were invisible to the eye, extreme data processing was required to start seeing these signals.
+
+![Compare](notebooks/figures/Compare.jpg?raw=true) 
+![Compares](notebooks/figures/Compare2.jpg?raw=true) 
+
+I had to resort to some creative visualizations but the low SNR and higher number of classes proved to be a challenge. Here are some artistic results.
 ![DSP1](notebooks/figures/PSmall_MenMedianRatio.JPG?raw=true)
 ![DSP2](notebooks/figures/PSmall_pVal.JPG?raw=true)
 ![DSP3](notebooks/figures/PSmall_pVal_slopeLinearFit.JPG?raw=true)
 ![DSP4](notebooks/figures/PSmall_StdDevTime.JPG?raw=true) 
-
-![Compare](notebooks/figures/Compare.jpg?raw=true) 
-![Compares](notebooks/figures/Compare2.jpg?raw=true) 
 
 ## Future Work
 [Back to Table of Contents](#table-of-contents)
