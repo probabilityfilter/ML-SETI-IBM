@@ -1,7 +1,7 @@
 # Machine Learning Using SETI data
 [SETI (Search for Extraterrestrial Intelligence)](https://www.seti.org/) Institute is dedicated to answering one of the most interesting questions – is there intelligent life elsewhere in the universe? To this end it runs the [Allen Telescope Array](https://www.seti.org/seti-institute/project/details/fact-sheet), a radio telescope array in Hat Creek Radio Observatory, northern California, which observes radio signals from distant stars and nebulae.
 
-![cover image](notebooks/figures/Kepler Field.JPG?raw=true)
+![cover image](notebooks/figures/Kepler-Field.JPG?raw=true)
 
 ![cover images](notebooks/figures/Candidates in Sky_Fast.gif)
 
