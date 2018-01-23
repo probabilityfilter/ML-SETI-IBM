@@ -4,7 +4,7 @@
 ![cover image](notebooks/figures/PSmall_pVal.JPG)
  ?raw=true
 
-![cover images](notebooks/figures/Candidates in Sky_Fast.gif)
+![cover images](notebooks/figures/Candidates_in_Sky_Fast.gif)
 
 ## Table of Contents
   - [GitHub1](#github1)
